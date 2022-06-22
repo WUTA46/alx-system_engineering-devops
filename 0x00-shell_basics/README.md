@@ -1,1 +1,1 @@
-This is a project on basic foundations of SE
+This is a project on how we use shell command line interface
